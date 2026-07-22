@@ -1,0 +1,11 @@
+Application_No,Student_Name,Age,Entrance_Exam_Score,Board_Percentage,Branch_Preference,Reservation_Category,Family_Income,Admission_Status
+1001,Rahul,18,89,92,CSE,GM,500000,Admitted
+1002,Priya,19,78,88,ECE,OBC,350000,Admitted
+1003,Amit,17,95,94,ISE,SC,250000,Admitted
+1004,Sneha,18,65,75,ME,GM,600000,Rejected
+1005,John,20,55,70,Civil,ST,200000,Waiting
+1006,Neha,21,102,85,CSE,OBC,400000,Admitted
+1007,Arjun,15,90,91,ECE,GM,550000,Rejected
+1008,Kiran,19,85,110,ISE,SC,300000,Admitted
+1002,Priya,19,78,88,ECE,OBC,350000,Admitted
+1010,Anjali,18,92,95,CSE,GM,650000,Admitted
