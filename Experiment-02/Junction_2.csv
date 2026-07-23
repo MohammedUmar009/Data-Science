@@ -1,0 +1,4 @@
+Timestamp,Location,Vehicle_Count,Average_Speed,Weather,Signal_Time,Accidents,Congestion_Level
+2026-07-22 08:00,Junction B,110,48,Sunny,55,0,Low
+2026-07-22 09:00,Junction B,-20,35,Rainy,60,1,High
+2026-07-22 10:00,Junction B,140,,Cloudy,65,0,Medium
